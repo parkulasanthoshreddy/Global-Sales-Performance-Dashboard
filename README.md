@@ -1,14 +1,14 @@
-\# 🌍 Global Sales Performance Dashboard
+\#  Global Sales Performance Dashboard
 
 
 
-\### 🔹 Overview
+\###  Overview
 
 This project analyzes sales data to uncover business insights using \*\*Python\*\* and \*\*Power BI\*\*.
 
 
 
-\### 📊 Objectives
+\###  Objectives
 
 \- Identify top-performing regions, segments, and products
 
@@ -18,7 +18,7 @@ This project analyzes sales data to uncover business insights using \*\*Python\*
 
 
 
-\### 🧰 Tools Used
+\###  Tools Used
 
 \- Python (Pandas, Matplotlib)
 
@@ -27,6 +27,3 @@ This project analyzes sales data to uncover business insights using \*\*Python\*
 \- MS Excel (Dataset)
 
 \- GitHub (Version Control)
-
-
-
