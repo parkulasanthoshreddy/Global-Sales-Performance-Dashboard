@@ -43,7 +43,8 @@ col_profit     = pick("profit")
 
 # Parse dates safely
 for dcol in [col_order_date, col_ship_date]:
-    df[dcol] = pd.to_datetime(df[dcol], errors="coerce")
+    df[dcol] = pd.to_datetime(df[dcol], errors="coerce", dayfirst=True)
+
 
 # Basic cleaning
 df = df.dropna(subset=[col_sales, col_profit, col_order_date]).copy()
