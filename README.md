@@ -1,29 +1,12 @@
-\#  Global Sales Performance Dashboard
+#  Global Sales Performance Dashboard
+
+**Tech:** Python (Pandas, Matplotlib), Power BI  
+**Goal:** Analyze global sales & profit across regions, segments, and categories. Build KPIs and clear visuals that help business teams make decisions fast.
 
 
+##  What’s inside
 
-\###  Overview
+- **Data Prep (Python):** `sales_eda.py` cleans the raw CSV, creates KPIs, and exports tidy tables for Power BI.
+- **Dashboard (Power BI):** `Global_Sales_Dashboard.pbix` with 3 pages — Executive KPIs, Trends, Top Products.
+- **Outputs:** CSVs + reference chart (ready for Power BI or quick checks).
 
-This project analyzes sales data to uncover business insights using \*\*Python\*\* and \*\*Power BI\*\*.
-
-
-
-\###  Objectives
-
-\- Identify top-performing regions, segments, and products
-
-\- Visualize sales and profit trends over time
-
-\- Create actionable KPIs for business growth
-
-
-
-\###  Tools Used
-
-\- Python (Pandas, Matplotlib)
-
-\- Power BI (Data Visualization)
-
-\- MS Excel (Dataset)
-
-\- GitHub (Version Control)
