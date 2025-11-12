@@ -3,7 +3,6 @@
 **Tech:** Python (Pandas, Matplotlib), Power BI  
 **Goal:** Analyze global sales & profit across regions, segments, and categories. Build KPIs and clear visuals that help business teams make decisions fast.
 
-
 ##  What’s inside
 
 - **Data Prep (Python):** `sales_eda.py` cleans the raw CSV, creates KPIs, and exports tidy tables for Power BI.
